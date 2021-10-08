@@ -1,0 +1,10 @@
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\bin\Debug\WFC_Monitor.exe.config
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\bin\Debug\WFC_Monitor.exe
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\bin\Debug\WFC_Monitor.pdb
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.csprojAssemblyReference.cache
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.Form1.resources
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.Properties.Resources.resources
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.csproj.GenerateResource.cache
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.exe
+C:\Users\TadjihojaevAR\source\repos\WFC_Monitor\WFC_Monitor\obj\Debug\WFC_Monitor.pdb
